@@ -1,0 +1,86 @@
+[33mcommit b69b7bfad500e56eb06fd272a38c3306f34ccf18[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Merge: 4c44a18 c2b330c
+Author: Thanh Nguyen Thai <130205657+thanhntse@users.noreply.github.com>
+Date:   Mon Dec 25 23:07:10 2023 +0700
+
+    Merge pull request #5 from thanhntse/add_story
+    
+    Add story
+
+[33mcommit c2b330cfd11ce3810597733fb6ea79f92bbb4ae6[m[33m ([m[1;31morigin/add_story[m[33m)[m
+Author: Hiiro007 <nguyenthaithanh07@gmail.com>
+Date:   Mon Dec 25 23:06:27 2023 +0700
+
+    Add story
+
+[33mcommit 4c44a18ca6d3b8e2ca65505953d03830d71e3d3d[m
+Merge: 8c17d2c 7ad21af
+Author: Thanh Nguyen Thai <130205657+thanhntse@users.noreply.github.com>
+Date:   Mon Dec 25 22:23:00 2023 +0700
+
+    Merge pull request #4 from thanhntse/add_slider
+    
+    Add Slider
+
+[33mcommit 7ad21afe0c631bef77d10c25151929c48adf6566[m[33m ([m[1;31morigin/add_slider[m[33m)[m
+Author: Hiiro007 <nguyenthaithanh07@gmail.com>
+Date:   Mon Dec 25 22:22:15 2023 +0700
+
+    Add Slider
+
+[33mcommit 8c17d2c28d87c797f1b04f2f0df3a9cd1e508681[m
+Merge: 34b058c 641ef25
+Author: Thanh Nguyen Thai <130205657+thanhntse@users.noreply.github.com>
+Date:   Mon Dec 25 20:45:03 2023 +0700
+
+    Merge pull request #3 from thanhntse/responsive_header
+    
+    Responsive header
+
+[33mcommit 641ef2535c3654016a4c1d36cd4bb565e30db403[m[33m ([m[1;31morigin/responsive_header[m[33m)[m
+Author: Hiiro007 <nguyenthaithanh07@gmail.com>
+Date:   Mon Dec 25 20:43:05 2023 +0700
+
+    Responsive header
+
+[33mcommit 34b058cb9b98d5a5a8260a2a8f210523c39a6e04[m
+Author: Hiiro007 <nguyenthaithanh07@gmail.com>
+Date:   Mon Dec 25 18:33:44 2023 +0700
+
+    delete output.css
+
+[33mcommit 84e06022a4cde151a3d367eea0fe879d59987e18[m
+Merge: 4e80cb3 4b5991c
+Author: Thanh Nguyen Thai <130205657+thanhntse@users.noreply.github.com>
+Date:   Mon Dec 25 18:30:06 2023 +0700
+
+    Merge pull request #2 from thanhntse/add_header
+    
+    Update gitignore
+
+[33mcommit 4b5991c5d133c37972284346773860f6e3afa9b8[m[33m ([m[1;31morigin/add_header[m[33m)[m
+Author: Hiiro007 <nguyenthaithanh07@gmail.com>
+Date:   Mon Dec 25 18:28:11 2023 +0700
+
+    Update gitignore
+
+[33mcommit 4e80cb375987a5c436a681cff444967e7643b68c[m
+Merge: eb750cb 47d249d
+Author: Thanh Nguyen Thai <130205657+thanhntse@users.noreply.github.com>
+Date:   Mon Dec 25 18:08:37 2023 +0700
+
+    Merge pull request #1 from thanhntse/add_header
+    
+    Add header.
+
+[33mcommit 47d249d46f86385fb9a793e07da858b1cf487e6a[m
+Author: Hiiro007 <nguyenthaithanh07@gmail.com>
+Date:   Mon Dec 25 18:03:25 2023 +0700
+
+    Add header.
+
+[33mcommit eb750cb93a3c6b3c11dc39e8768cce872a004210[m
+Author: Hiiro007 <nguyenthaithanh07@gmail.com>
+Date:   Mon Dec 25 17:00:08 2023 +0700
+
+    Init project
