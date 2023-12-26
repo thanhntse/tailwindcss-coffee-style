@@ -36,3 +36,7 @@
 .ct-subheadline-label {
     @apply uppercase mx-4 text-gray-500 tracking-widest font-medium text-xs text-center;
 }
+
+.ct-btn {
+    @apply text-center uppercase tracking-widest py-4 px-8 font-semibold cursor-pointer hover:bg-opacity-90 text-xs;
+}
