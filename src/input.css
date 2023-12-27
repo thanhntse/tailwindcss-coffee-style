@@ -38,5 +38,5 @@
 }
 
 .ct-btn {
-    @apply text-center uppercase tracking-widest py-4 px-8 font-semibold cursor-pointer hover:bg-opacity-90 text-xs;
+    @apply text-center uppercase tracking-widest py-4 px-8 font-semibold cursor-pointer hover:bg-opacity-90 text-[13px] max-h-[54px];
 }
